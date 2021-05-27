@@ -1,0 +1,11 @@
+.navigation {
+    display: flex;
+    justify-content: center;
+}
+.navigation i {
+    margin: 12px;
+}
+.theme {
+    display: flex;
+    justify-content: center;
+}
